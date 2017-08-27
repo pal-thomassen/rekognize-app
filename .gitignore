@@ -1,0 +1,13 @@
+node_modules
+build/
+bin/
+out/
+gradle/
+
+.classpath/
+.gradle/
+.idea
+.project
+.settings
+
+*.iml
